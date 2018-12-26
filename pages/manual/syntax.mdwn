@@ -80,7 +80,7 @@ module foo
 
 # doc. of Bar
 class Bar
-   # doc. of baz
-   fun baz do end
+        # doc. of baz
+        fun baz do end
 end
 ~~~
